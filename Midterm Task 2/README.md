@@ -109,7 +109,7 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 ![screenshot](image/Uncleaned.png)
 
 ### Here's the code proof for my cleaning of data
-
+![screenshot](image/Code.png)
 
 ### Here's the screenshot of my output after I started data cleaning (see screenshot)
 ![screenshot](image/EDM%20Power%20Query.png)
