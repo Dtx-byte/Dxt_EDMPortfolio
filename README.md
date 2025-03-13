@@ -14,6 +14,6 @@ High School: Amsic Integrated School
 Elementary: Sta. Teresita Elementary school, Amsic Integrated School
 
 ## My Projects
--Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task/README.md)
+-Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/Dtx-byte/Dxt_EDMPortfolio/blob/main/Midterm%20Task/README.md)
 
 -Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/Dtx-byte/Dxt_EDMPortfolio/blob/main/Midterm%20Task%202/README.md)
