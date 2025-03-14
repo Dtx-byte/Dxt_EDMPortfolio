@@ -1,4 +1,4 @@
-# [Midterm-Lab-Task-3](https://github.com/Dtx-byte/Dxt_EDMPortfolio/raw/refs/heads/main/Midterm%20Task%203/Pascubillo%20MTLT3.xlsx)
+### [Midterm-Lab-Task-3](https://github.com/Dtx-byte/Dxt_EDMPortfolio/raw/refs/heads/main/Midterm%20Task%203/Pascubillo%20MTLT3.xlsx)
 - This portfolio is about creating an interactive Data Science Salary & Job Trends Dashboard using Excel. It analyzes job distribution, salary trends by role and company size, and sector-wise employment patterns through pivot tables, charts, slicers, and an optional map for visualization.
 ## Step by Step Process
 
@@ -35,3 +35,10 @@
    - The slicers should be functional and interactive
 
 ## Screenshots During Analysis
+
+# Salary by
+Role
+
+State
+
+Size
