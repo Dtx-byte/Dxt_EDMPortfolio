@@ -29,3 +29,5 @@ Elementary: Sta. Teresita Elementary school, Amsic Integrated School
 - Finals Lab Task 3 : [Table Manipulation](https://dtx-byte.github.io/Final-Lab-Task-3/)
 
 - Finals Lab Task 3.1 : [Using MYSQL Clause](https://dtx-byte.github.io/Final_Lab_Task_3-1/)
+
+- Finals Lab Task 6 : [MongoDBCRUD](https://dtx-byte.github.io/Final-Lab-Task-6/)
